@@ -1,0 +1,7 @@
+{
+  "name": "no-package-lock",
+  "version": "0.0.0",
+  "bin": {
+    "no-package-lock": "index.js"
+  }
+}
